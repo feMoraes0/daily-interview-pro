@@ -9,3 +9,4 @@ All the solutions are possible solutions and not necessarily the best/fast way t
 | Day        | Solved   | Topic       |
 |:----------:|:--------:|:-----------:|
 | 05.21.2020 | Done     | Linked list |
+| 05.22.2020 | Done     | Linked list |

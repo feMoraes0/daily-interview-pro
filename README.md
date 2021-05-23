@@ -6,7 +6,7 @@ All the solutions are possible solutions and not necessarily the best/fast way t
 
 ## Topics
 
-| Day        | Solved   | Topic       |
-|:----------:|:--------:|:-----------:|
-| 05.21.2020 | Done     | Linked list |
-| 05.22.2020 | Done     | Linked list |
+| Day        | Solved   | Topic          |
+|:----------:|:--------:|:--------------:|
+| 05.21.2021 | Done     | Linked list    |
+| 05.22.2021 | Done     | Find substring |

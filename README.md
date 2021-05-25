@@ -11,3 +11,4 @@ All the solutions are possible solutions and not necessarily the best/fast way t
 | 05.21.2021 | Done     | Linked list     |
 | 05.22.2021 | Done     | Find substring  |
 | 05.23.2021 | Doing    | Find palindrome |
+| 05.23.2021 | Done     | Brackets order validation |

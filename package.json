@@ -4,7 +4,7 @@
   "description": "All the problems solved here were received after register in [https://www.techseries.dev/daily](https://www.techseries.dev/daily).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   "devDependencies": {
     "@types/jest": "^28.1.2",
     "jest": "^28.1.1",
+    "ts-node": "^10.8.1",
     "typescript": "^4.7.4"
   }
 }

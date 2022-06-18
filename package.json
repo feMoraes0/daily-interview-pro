@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/feMoraes0/daily-interview-pro/issues"
   },
-  "homepage": "https://github.com/feMoraes0/daily-interview-pro#readme"
+  "homepage": "https://github.com/feMoraes0/daily-interview-pro#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
